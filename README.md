@@ -83,6 +83,7 @@
 
 <!-- Snake Animation -->
 ## 🐍 3D Contribution Snake
+![🐍 Contribution Snake](https://raw.githubusercontent.com/Dixitkumar1/Dixitkumar1/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
