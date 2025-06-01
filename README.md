@@ -18,7 +18,7 @@
 - 💻 Tech stack: Arduino, C++, Python, Java, Swift, Web Dev & More  
 - 🛠 Skilled in IoT, Circuit Design, Animation, UI/UX & App Development  
 - 🎯 Govt.-Recognized Achiever in both Tech & Non-Tech  
-- 💘 Still loyal to one crush, code me segmentation fault nahi 😉
+
 
 ---
 
@@ -51,7 +51,7 @@
 - 🤖 Certified Product Designer in Arduino (NSUT)  
 - 🛹 Skating Champion at School Level  
 - 🎖️ Govt. Recognition Letters & Multiple Medals  
-- 💘 Dil se wafadar – Loyalty level: Infinite
+
 
 ---
 
