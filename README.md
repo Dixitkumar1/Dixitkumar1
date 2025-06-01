@@ -1,16 +1,109 @@
-## Hi there 👋
+<!-- 🔥 Dixit – Full Power Developer README -->
+<!-- Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=header"/>
+</p>
 
-<!--
-**Dixitkumar1/Dixitkumar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&lines=🚀+Dixit+Khanda+–+Coding+with+Swag+%26+Silence;🔥+Developer+By+Mind%2C+Haryanvi+By+Heart;🧠+AIR+1+%7C+Arduino+%7C+IoT+%7C+CodeCraft+Champion;❤️+Coding+Kar+Lo%2C+Feelings+Me+Segmentation+Fault+Hai" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- About Section -->
+## 🙋‍♂️ About Me
+
+- 🎓 B.Sc. (Hons.) Computer Science @ Dyal Singh College, Delhi University  
+- 💻 Tech stack: Arduino, C++, Python, Java, Swift, Web Dev & More  
+- 🛠 Skilled in IoT, Circuit Design, Animation, UI/UX & App Development  
+- 🎯 Govt.-Recognized Achiever in both Tech & Non-Tech  
+- 💘 Still loyal to one crush, code me segmentation fault nahi 😉
+
+---
+
+<!-- Toolkit Section -->
+## 🧰 My Toolkit
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,html,css" /><br/><b>Languages</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino,vscode,github,figma,react" /><br/><b>Tools</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,mysql,swift,linux,blender" /><br/><b>Platforms</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Achievements -->
+## 🏆 Achievements & Highlights
+
+- 🥇 1st Rank in National-Level Coding (Class 10)  
+- 🧠 ISRO Certified Space & Tech Workshop  
+- ⚡ 1.2 Years Internship at Haryana Yog Ayog  
+- 🤖 Certified Product Designer in Arduino (NSUT)  
+- 🛹 Skating Champion at School Level  
+- 🎖️ Govt. Recognition Letters & Multiple Medals  
+- 💘 Dil se wafadar – Loyalty level: Infinite
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dixitkumar1&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dixitkumar1&theme=tokyonight" height="190"/>
+</div>
+
+
+<!-- GitHub Trophies -->
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dixitkumar1&theme=onedark&row=2&column=3" />
+</p>
+
+<!-- Contribution Graph -->
+## 🌍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dixitkumar1&theme=dracula&area=true" />
+</p>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 3D Contribution Snake
+
+
+<p align="center">
+  <img src="https://github.com/Dixitkumar1/Dixitkumar1/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
+<!-- Let's Connect -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:dixitsharma.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dixitkhanda1@gmail.com-D14836?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://instagram.com/">
+   
+  </a>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=footer"/>
+</p>
