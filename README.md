@@ -15,7 +15,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Sc. (Hons.) Computer Science @ Dyal Singh College, Delhi University  
-- 💻 Tech stack: Arduino, C++, Python, Java, Swift, Web Dev & More  
+- 💻 Tech stack: Arduino, Java, Swift, Web Dev & More  
 - 🛠 Skilled in IoT, Circuit Design, Animation, UI/UX & App Development  
 - 🎯 Govt.-Recognized Achiever in both Tech & Non-Tech  
 
@@ -31,10 +31,10 @@
         <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,html,css" /><br/><b>Languages</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=arduino,vscode,github,figma,react" /><br/><b>Tools</b>
+        <img src="https://skillicons.dev/icons?i=arduino,vscode,github,figma" /><br/><b>Tools</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,mysql,swift,linux,blender" /><br/><b>Platforms</b>
+        <img src="https://skillicons.dev/icons?i=mysql,swift,linux,blender" /><br/><b>Platforms</b>
       </td>
     </tr>
   </table>
