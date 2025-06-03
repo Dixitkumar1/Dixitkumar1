@@ -28,13 +28,13 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,html,css" /><br/><b>Languages</b>
+        <img src="https://skillicons.dev/icons?i=cpp,java,php,js,html,css" /><br/><b>Languages</b>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=arduino,vscode,github,figma" /><br/><b>Tools</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,swift,linux,blender" /><br/><b>Platforms</b>
+        <img src="https://skillicons.dev/icons?i=mysql,swift,blender" /><br/><b>Platforms</b>
       </td>
     </tr>
   </table>
