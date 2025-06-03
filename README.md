@@ -14,7 +14,7 @@
 <!-- About Section -->
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Sc. (Hons.) Computer Science @ Dyal Singh College, Delhi University  
+- 🎓 B.S (Hons.) Computer Science @ Dyal Singh College, Delhi University  
 - 💻 Tech stack: Arduino, Java, Swift, Web Dev & More  
 - 🛠 Skilled in IoT, Circuit Design, Animation, UI/UX & App Development  
 - 🎯 Govt.-Recognized Achiever in both Tech & Non-Tech  
