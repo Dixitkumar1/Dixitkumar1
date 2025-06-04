@@ -46,7 +46,6 @@
 ## 🏆 Achievements & Highlights
 
 - 🥇 1st Rank in National-Level Coding (Class 10)  
-- 🧠 ISRO Certified Space & Tech Workshop  
 - ⚡ 1.2 Years Internship at Haryana Yog Ayog  
 - 🤖 Certified Product Designer in Arduino (NSUT)  
 - 🛹 Skating Champion at School Level  
