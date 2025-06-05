@@ -59,7 +59,7 @@
 
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dixitkumar1&show_icons=true&theme=tokyonight&count_private=true" height="190"/>-->
+ <img src="https://github-readme-stats.vercel.app/api?username=Dixitkumar1&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dixitkumar1&theme=tokyonight" height="190"/>
 </div>
 
